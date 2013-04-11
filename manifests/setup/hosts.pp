@@ -39,7 +39,7 @@ package { ['make', 'gcc']:
 } ->
 
 # install hiera, to support Puppet pre 3.0
-package { ['hiera', 'hiera-puppet', 'ruby-debug']:
+package { ['hiera', 'hiera-puppet', 'debugger']:
   ensure   => present,
   provider => 'gem',
 }

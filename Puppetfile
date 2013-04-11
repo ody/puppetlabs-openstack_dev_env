@@ -8,7 +8,7 @@ mod 'puppetlabs/horizon', :git => 'git://github.com/puppetlabs/puppetlabs-horizo
 mod 'puppetlabs/swift', :git => 'git://github.com/puppetlabs/puppetlabs-swift'
 mod 'puppetlabs/cinder', :git => 'git://github.com/puppetlabs/puppetlabs-cinder'
 mod 'puppetlabs/tempest', :git => 'git://github.com/puppetlabs/puppetlabs-tempest'
-mod 'puppet/quantum', :git => 'git://github.com/bodepd/openstack-quantum-puppet/'
+mod 'puppet/quantum', :git => 'git://github.com/bodepd/puppet-quantum'
 # openstack middleware
 mod 'puppet/vswitch', :git => 'git://github.com/ekarlso/puppet-vswitch'
 mod 'puppetlabs/rabbitmq', :git => 'git://github.com/puppetlabs/puppetlabs-rabbitmq'

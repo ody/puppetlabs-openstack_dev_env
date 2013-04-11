@@ -8,7 +8,7 @@ cinder_db_password: cinder_db_password
 quantum_db_password: quantum_db_password
 # mysql allowed hosts
 allowed_hosts:
-  - %
+  - "%"
 # keystone settings
 admin_token: service_token
 admin_email: keystone@localhost
